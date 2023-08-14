@@ -4,7 +4,7 @@ metadata:
   name: nginx-ingress
 spec:
   rules:
-    - host: nginx.example.com
+    - host: lisiabykcim.xyz
       http:
         paths:
           - path: /
